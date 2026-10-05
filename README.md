@@ -11,6 +11,9 @@ The website provides a professional online presence and allows recruiters, indus
 🔗 Live Website:
 "https://dilki882.github.io/CodeAlpha_PortfolioWebsite/"
 
+💻 GitHub Repository "https://github.com/Dilki882/CodeAlpha_PortfolioWebsite.git"
+
+
 ---
 
 📌 About the Project
@@ -263,6 +266,13 @@ Interested in opportunities related to:
 - Other IT-related roles
 
 ---
+
+
+🎓 Internship Project
+
+This project was developed as Task 03 of CodeAlpha Frontend Development Internship.
+
+ ---
 
 🙏 Acknowledgement
 
